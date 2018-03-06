@@ -1,0 +1,9 @@
+Observations about the data
+1. Urban settings generate more rides, but at lower average fare; Rural is the opposite
+2. Suburban drivers produce more fares / driver than do urban drivers
+3. Rural markets produce the most revenue / driver - a possible area for growing revenue
+Editorial comments
+4.  This assignment was much more reasonable than HW4. I was able to get the assignment
+    done and have time to review some of may many python deficiencies / weaknesses
+5.  I feel like this homework did improve my python skills
+6.  Thanks again to Stack Overflow & google!
