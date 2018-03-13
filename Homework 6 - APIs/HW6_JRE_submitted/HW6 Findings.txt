@@ -1,0 +1,19 @@
+Homework 6 - Weather API
+
+What's the weather like as we approach the equator?
+Now, we know what you may be thinking: "Duh. It gets hotter..."
+But, if pressed, how would you prove it?
+
+Based on the charts I created:
+1. City Latitude vs. Max Temperature:
+   - there is a slight correlation - being closer to the equator does result in highr temperatures
+2. City Latitude vs. Humidity:
+   - no significant relationship between the two
+   - many cities have high humidity (close to the sea?)
+3. City Latitude vs. Cloudiness:
+   - no significant relationship between the two
+   - cloudiness seems to be assigned in an arbitrary fashion (10,20, 40, etc.)
+4. City Latitude vs. Wind Speed:
+   - very little range in wind speed
+   - no significant relationship between the two
+
