@@ -1,0 +1,11 @@
+Homework 7 - Distinguishing Sentiments
+
+News Mood
+
+3 observable trends
+
+1.  Tweet polarity is distributed pretty evenly for all 5 news sources
+2.  Overall Sentiments are all close to 0, with the NY Times being the only positive
+3.  Thru multiple runs, the values did not change significantly.  It would have been
+    interesting to run this every 15 minutes on election night in November 2016, as 
+    the election results surprised almost everyone...
